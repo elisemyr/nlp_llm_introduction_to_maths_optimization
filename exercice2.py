@@ -84,5 +84,5 @@ plt.ylabel('f1(x,y) values')
 plt.legend()
 plt.grid()
 
-# This graph represents the function f1 along lines going through the origin with different slopes.
+
 
